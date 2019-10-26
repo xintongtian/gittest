@@ -1,0 +1,6 @@
+
+
+
+
+def aaafunction():
+    print("aaa")
